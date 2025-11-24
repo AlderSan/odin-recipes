@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+    font-family: Arial;
+    background-color: lightgray;
+}
+
+.main {
+    text-align: center;
+}
+
+.main .list {
+    text-align: left;
+    font-size: 20px;
+    border: 2px dotted black;
+    padding-left: 150px;
+}
